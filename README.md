@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zabi</h1>
-<h3 align="center">A passionate Android Developer who wants to become an expert in Mobile Development.</h3>
+<h3 align="left">A passionate Android Developer who wants to become an expert in Mobile Development.</h3>
 
 - 🌱 I’m currently learning **Figma, Jetpack Compose and Android Advanced Futures**
 
